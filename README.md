@@ -1,5 +1,5 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gogodze.visitor-badge&left_color=blue&right_color=red" />
 
 # <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I+hope+you'll+like+it!">
 
@@ -43,7 +43,7 @@ Thank you very much for reading! ♥
 
 
 <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=Davy-G&theme=tokyonight"/>
+        <img src="https://streak-stats.demolab.com/?user=gogodze&theme=tokyonight"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogodze&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gogodze&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gogodze&theme=tokyonight">
