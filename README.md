@@ -1,5 +1,4 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gogodze.visitor-badge&left_color=blue&right_color=red" />
 
 # <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I+hope+you'll+like+it!">
 
