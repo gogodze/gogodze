@@ -42,7 +42,7 @@ Thank you very much for reading! ♥
 
 
 <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=gogodze&theme=tokyonight"/>
+<!--         <img src="https://streak-stats.demolab.com/?user=gogodze&theme=tokyonight"/> -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogodze&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gogodze&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gogodze&theme=tokyonight">
