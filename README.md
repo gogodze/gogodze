@@ -9,7 +9,7 @@
 
 
 <p style="color: #f4fc03;">
-Hey there, I'm David, a software developer from საქართველო. With a rich blend of experience and expertise, I've been immersed in the world of coding for a while now.
+Hey there, I'm David, a software developer from Georgia. With a rich blend of experience and expertise, I've been immersed in the world of coding for a while now.
   
 I have over four years of dedicated work with C# and the .NET framework, alongside a solid five-year journey of crafting programs and websites in Python.
 </p>
