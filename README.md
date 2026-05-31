@@ -25,17 +25,6 @@ I have over four years of dedicated work with C# and the .NET framework, alongsi
   </a>
 </p>
 
-## Currently learning: 🎓
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,php,react,java,r"/>
-    </a>
-  </p>
-  
-<hr>
-
-
-
 ## 📈 GitHub analytics
 
 
